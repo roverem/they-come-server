@@ -1,0 +1,5 @@
+Server godot
+
+https://github.com/gd-com/examples
+https://github.com/gd-com/utils
+https://www.gamefromscratch.com/page/Godot-3-Tutorial-Networking.aspx
