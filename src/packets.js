@@ -1,0 +1,10 @@
+module.exports = {
+  JOIN_GAME: 1005,
+  OK_JOINED_GAME: 1006,
+
+  I_WANT_TO_GO_LEFT: 1001,
+  I_WANT_TO_GO_RIGHT: 1002,
+
+  OK_GO_LEFT: 1003,
+  OK_GO_RIGHT: 1004
+}
